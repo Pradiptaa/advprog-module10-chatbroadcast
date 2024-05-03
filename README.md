@@ -6,3 +6,7 @@
 
 Setelah run server dan 3 clients, dapat dilihat bahwa setiap client dapat mengirim dan menerima pesan yang diterima oleh server. Setiap pesan yang diterima server dari client akan dikirimkan kembali kepada client yang menerimanya.
 
+**2.2 Modifying Port**
+![](assets/module10chat3.png)
+
+Dapat dilihat dari gambar, dibutuhkan server dan client dengan port yang sama yaitu 8080 agar aplikasi berjalan normal.
